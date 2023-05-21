@@ -15,3 +15,4 @@ def save_gas_price_to_github(gas_price):
 
 gas_price = get_gas_price()
 save_gas_price_to_github(gas_price)
+
